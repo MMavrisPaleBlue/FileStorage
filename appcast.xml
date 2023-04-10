@@ -3,12 +3,12 @@
     <channel>
         <title>WakaTime</title>
         <item>
-            <title>0.2.6-alpha.1</title>
-            <pubDate>Mon, 10 Apr 2023 12:38:46 +0300</pubDate>
+            <title>0.2.4</title>
+            <pubDate>Mon, 10 Apr 2023 14:39:34 +0300</pubDate>
             <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.2.6-alpha.1</sparkle:shortVersionString>
+            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/wakatime/macos-wakatime/releases/download/v0.2.4/WakaTime.zip" length="375336" type="application/octet-stream"/>
+            <enclosure url="https://github.com/wakatime/macos-wakatime/releases/download/v0.2.4/WakaTime.zip" length="375326" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
