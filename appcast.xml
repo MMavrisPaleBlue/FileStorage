@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>WakaTime</title>
+        <item>
+            <title>0.2.6-alpha.1</title>
+            <pubDate>Mon, 10 Apr 2023 12:38:46 +0300</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2.6-alpha.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.1</sparkle:minimumSystemVersion>
+            <enclosure url="WakaTime.zip" length="375336" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
