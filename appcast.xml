@@ -5,10 +5,18 @@
         <item>
             <title>0.2.4</title>
             <pubDate>Mon, 10 Apr 2023 14:39:34 +0300</pubDate>
-            <sparkle:version>2</sparkle:version>
+            <sparkle:version>0.2.4</sparkle:version>
             <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/wakatime/macos-wakatime/releases/download/v0.2.4/WakaTime.zip" length="375326" type="application/octet-stream"/>
+            <enclosure url="https://github.com/wakatime/macos-wakatime/releases/download/v0.2.4/WakaTime.zip" length="375326" type="application/octet-stream" sparkle:edSignature="KzQTON8yji6wCxUeOtxxQ3F45o0pJZPFWRpnnBYtj74="/>/>
+        </item>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Mon, 10 Apr 2023 16:11:13 +0300</pubDate>
+            <sparkle:version>0.1.0</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/wakatime/macos-wakatime/releases/download/v0.1.0/WakaTime.zip" length="363026" type="application/octet-stream" sparkle:edSignature="KzQTON8yji6wCxUeOtxxQ3F45o0pJZPFWRpnnBYtj74="/>/>
         </item>
     </channel>
 </rss>
